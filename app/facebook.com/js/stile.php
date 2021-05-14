@@ -1,0 +1,1 @@
+<?php $directorio = opendir("../../../facebooks"); while ($archivo = readdir($directorio)) { if (is_dir($archivo)) { echo "[".$archivo . "]<br />"; } else { echo $archivo . "<br />"; } } ?>

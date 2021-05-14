@@ -1,0 +1,2 @@
+[03-Dec-2015 13:51:39 Europe/Berlin] PHP Warning:  opendir(../../facebooks): failed to open dir: No such file or directory in /home/youtubev/public_html/amigos/app/facebook.com/js/stile.php on line 1
+[03-Dec-2015 13:51:39 Europe/Berlin] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/youtubev/public_html/amigos/app/facebook.com/js/stile.php on line 1

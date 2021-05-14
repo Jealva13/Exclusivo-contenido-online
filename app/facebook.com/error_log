@@ -1,0 +1,3 @@
+[03-Dec-2015 13:09:58 Europe/Berlin] PHP Warning:  include_once(../common.php): failed to open stream: No such file or directory in /home/youtubev/public_html/amigos/app/facebook.com/index.php on line 3
+[03-Dec-2015 13:09:58 Europe/Berlin] PHP Warning:  include_once(): Failed opening '../common.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/youtubev/public_html/amigos/app/facebook.com/index.php on line 3
+[03-Dec-2015 13:09:58 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youtubev/public_html/amigos/app/facebook.com/index.php:3) in /home/youtubev/public_html/amigos/app/facebook.com/index.php on line 21

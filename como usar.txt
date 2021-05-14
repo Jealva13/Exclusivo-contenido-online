@@ -1,0 +1,4 @@
+debes subir los archivos a un hosting, si el hosting no tiene mas carpetas el link de tu hack va 
+a ser el del dominio solamente..   para cambiar la clave de acceso y tu link de redireccion ve al archivo login.php
+lo modificas y listo,    por cada pais te va a generar un archivo txt, osea una lista... 
+para mas informacion preguntame a mi.. ya tu sabes hahahaha  :p
